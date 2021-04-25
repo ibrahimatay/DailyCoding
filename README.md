@@ -3,6 +3,17 @@
 # DailyCodingProblem
 Here is my approach for coding challenges at dailycodingproblem.com. I am using Java. Feel free to create a new issue thread for your questions or suggestions.
 
+***Day 14***
+
+The area of a circle is defined as πr2. Estimate π to 3 decimal places using a Monte Carlo method.
+
+Hint: The basic equation of a circle is x2 + y2 = r2.
+
+*This problem was asked by Google.*
+
+[[Solution](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/main/java/com/ibrahimatay/Problem14.java)]
+[[Test](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/test/java/com/ibrahimatay/Problem14Test.java)]
+
 ***Day 13***
 
 Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
