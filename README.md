@@ -3,6 +3,17 @@
 # DailyCodingProblem
 Here is my approach for coding challenges at dailycodingproblem.com. I am using Java. Feel free to create a new issue thread for your questions or suggestions.
 
+***Day 15***
+
+Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
+
+If you liked this problem, feel free to forward it along!
+
+*This problem was asked by Facebook.*
+
+[[Solution](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/main/java/com/ibrahimatay/Problem15.java)]
+[[Test](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/test/java/com/ibrahimatay/Problem15Test.java)]
+
 ***Day 14***
 
 The area of a circle is defined as πr2. Estimate π to 3 decimal places using a Monte Carlo method.

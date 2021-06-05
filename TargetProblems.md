@@ -1,13 +1,5 @@
 # My Target Problems
 
-***Day 15***
-
-Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
-
-If you liked this problem, feel free to forward it along!
-
-*This problem was asked by Facebook.*
-
 ***Day 17***
 
 Suppose we represent our file system by a string in the following manner:
