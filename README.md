@@ -3,6 +3,17 @@
 # DailyCodingProblem
 Here is my approach for coding challenges at dailycodingproblem.com. I am using Java. Feel free to create a new issue thread for your questions or suggestions.
 
+***Day 16***
+
+You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, with the following API:
+
+record(order_id): adds the order_id to the log get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N. You should be as efficient with time and space as possible.
+
+*This problem was asked by Twitter.*
+
+[[Solution](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/main/java/com/ibrahimatay/Problem16.java)]
+[[Test](https://github.com/ibrahimatay/DailyCodingProblem/blob/master/src/test/java/com/ibrahimatay/Problem16Test.java)]
+
 ***Day 15***
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
